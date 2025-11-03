@@ -1,8 +1,8 @@
-# CAPTAN – AI Project Manager
+# CAPTAIN – AI Project Manager
 
-CAPTAN is an AI Project Manager for engineering teams — focused on ticket hygiene, backlog quality & communication clarity.
+CAPTAIN is an AI Project Manager for engineering teams — focused on ticket hygiene, backlog quality & communication clarity.
 
-Think of CAPTAN as the first non-human PM that keeps Jira clean — without human micromanagement.
+Think of CAPTAIN as the first non-human PM that keeps Jira clean — without human micromanagement.
 
 Built solo, full-stack + domain design.
 
@@ -13,11 +13,11 @@ Most software execution problems aren’t architectural — they’re coordinati
 
 Ticket hygiene kills velocity *far more* than technical difficulty.
 
-CAPTAN eliminates backlog entropy.
+CAPTAIN eliminates backlog entropy.
 
 ---
 
-## What CAPTAN does
+## What CAPTAIN does
 - reads Slack threads → infers state → updates Jira automatically
 - rewrites, clarifies & normalizes tickets
 - ensures backlog consistency & grooming
@@ -36,9 +36,15 @@ CAPTAN eliminates backlog entropy.
 ---
 
 ## Architecture — high level
-Slack / Jira → CAPTAN interpreter → action engine → Jira mutations
+Slack / Jira → CAPTAIN interpreter → action engine → Jira mutations
 
 Agents decide meaning → system enforces state correction.
+
+---
+
+## Live / Demo
+- Landing: https://captain-landingpage-v2.vercel.app
+- Demo Video: https://youtu.be/dYV8AEKDEMQ?si=jTWiOWYvpLskt0Nl
 
 ---
 
@@ -58,8 +64,3 @@ Year built: 2025
 
 ## Status
 Active internal product
-
----
-
-## Demo Video
-https://www.youtube.com/embed/dYV8AEKDEMQ
