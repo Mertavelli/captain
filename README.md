@@ -62,7 +62,4 @@ Active internal product
 ---
 
 ## Demo Video
-
-<div align="center">
-  <iframe width="900" height="506" src="https://www.youtube.com/embed/dYV8AEKDEMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+https://www.youtube.com/embed/dYV8AEKDEMQ
