@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+typing_extensions
+supabase
+openai
+openai-agents
